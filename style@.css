@@ -1,0 +1,39 @@
+/*
+Element selector
+*/
+p{
+   property
+}
+p{
+
+     font-family: 'Times New Roman', Times, serif;
+     font-size: 20px;
+     font-weight: bold;
+
+     text-align: justify;
+     color: coral; n
+   
+
+  }
+  /*
+  id is unique within the page
+  */
+  #p1{
+   color: blueviolet;
+  }
+  h2{
+   color: blanchedalmond;
+  }
+  h3{
+    color: aqua;
+  }
+  h4
+  {
+   color: blueviolet;
+  }
+  h1{
+   color: darkred;
+  }
+  tr{
+   color: darkred;
+  }
